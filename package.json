@@ -24,6 +24,7 @@
     "@atlaskit/item": "^10.1.6",
     "@atlaskit/spinner": "^12.1.1",
     "@atlaskit/theme": "^9.2.4",
+    "@adventurebeard/atlaskit-lk-item": "https://github.com/AdventureBeard/atlaskit-lk-item#9c1950c7acd6025fa488008be7d9a6ead04602ea",
     "@babel/runtime": "^7.0.0"
   },
   "peerDependencies": {

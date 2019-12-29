@@ -1,6 +1,6 @@
 import { __assign, __extends } from "tslib";
 import * as React from 'react';
-import baseItem, { withItemClick, withItemFocus } from '@atlaskit/item';
+import baseItem, { withItemClick, withItemFocus } from '@adventurebeard/atlaskit-lk-item';
 import { ResultItemAfter, ResultItemAfterWrapper, ResultItemCaption, ResultItemIcon, ResultItemTextAfter, ResultItemSubText, } from './styled';
 var Item = withItemClick(withItemFocus(baseItem));
 var ResultItem = /** @class */ (function (_super) {

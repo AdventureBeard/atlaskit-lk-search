@@ -1,5 +1,5 @@
 import * as React from 'react';
-import baseItem, { withItemClick, withItemFocus } from '@atlaskit/item';
+import baseItem, { withItemClick, withItemFocus } from '@adventurebeard/atlaskit-lk-item';
 
 import {
   ResultItemAfter,

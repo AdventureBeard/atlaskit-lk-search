@@ -2,9 +2,9 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var tslib_1 = require("tslib");
 var React = tslib_1.__importStar(require("react"));
-var item_1 = tslib_1.__importStar(require("@atlaskit/item"));
+var atlaskit_lk_item_1 = tslib_1.__importStar(require("@adventurebeard/atlaskit-lk-item"));
 var styled_1 = require("./styled");
-var Item = item_1.withItemClick(item_1.withItemFocus(item_1.default));
+var Item = atlaskit_lk_item_1.withItemClick(atlaskit_lk_item_1.withItemFocus(atlaskit_lk_item_1.default));
 var ResultItem = /** @class */ (function (_super) {
     tslib_1.__extends(ResultItem, _super);
     function ResultItem() {
